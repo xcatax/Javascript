@@ -21,6 +21,9 @@ const segundos = setInterval(() => {
   }
 }, 1000); //para hacer contadores 
 
+new Promise( (resolve, reject) => {
 
+}
+)
 
 
