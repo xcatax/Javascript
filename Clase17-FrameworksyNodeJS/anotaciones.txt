@@ -1,0 +1,7 @@
+
+
+no tenemos acceso al metodo alert o prompt, en la consola ejecutamos cositas node, y se ejecutan asi. 
+
+npm instalador de paquetes, dependencias de node, disponibles en la "libreria de node"
+
+npm install luxon por ejemplo 
